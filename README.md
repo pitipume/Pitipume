@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Poom Pitipume
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Poom
 ==========================================================================================================================================
 
 I am an Aircraft Mechanic who wants to shift a career path from aviation to IT-related field. I have taken the initiative to start learning basic programming languages and building some projects on my own time. I am eager to learn and continue expanding my knowledge in this field in order to become a good software developer.
